@@ -265,5 +265,3 @@ Includes:
 This project is licensed under the **MIT License**.
 
 ---
-
-Just say **NEXT** 🚀
